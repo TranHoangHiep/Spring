@@ -5,3 +5,5 @@ Servers/
 SpringCode/
 StudentManagement/
 spring-boot-sample/target/
+spring-boot-sample/.classpath
+spring-boot-sample/.project
