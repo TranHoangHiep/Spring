@@ -1,0 +1,5 @@
+<tiles-definitions>
+	<definition name="template" template="/jsp/layout.jsp">
+		<put-attribute name="body" value="" />
+	</definition>
+</tiles-definitions>
