@@ -7,3 +7,9 @@ StudentManagement/
 spring-boot-sample/target/
 spring-boot-sample/.classpath
 spring-boot-sample/.project
+spring-mvc/target/
+spring-mvc/.classpath
+spring-mvc/.idea/
+spring-mvc/.settings/
+spring-mvc/.project
+spring-mvc/spring-mvc.iml
